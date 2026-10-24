@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-322
-description: "Create XXD Panel 322 raster artwork: a faithful photograph paired with one mid-century geometric symbol, form before meaning, still recognizable. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-322 or asks for this 几何构成 style."
+description: "XXD Panel 322｜Geometric Composition: keeps the photo and rebuilds its subject as one small mid-century modern geometric symbol where form comes before meaning — circles, rectangles, arcs, triangles and a few irregular shapes arranged first as a balanced composition, so the original object is recognised second. Hard-edged flat colour, cut-paper blocks, screenprint grain, slight misregistration and soft paper; a limited palette of main, support and accent colours echoed from the photo, such as clear blue, cream, warm yellow and coral orange; at most a ring, horizontal line or structural line as helper, wide whitespace and a short title or micro note in a small modernist type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-322 or asks for a mid-century modern geometric logo, travel-souvenir symbol or editorial graphic mark from a photo."
 ---
 
 # XXD Panel 322

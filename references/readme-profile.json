@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 322｜Geometric Composition: keeps the photo and rebuilds its subject as one small mid-century modern geometric symbol where form comes before meaning — circles, rectangles, arcs, triangles and a few irregular shapes arranged first as a balanced composition, so the original object is recognised second. Hard-edged flat colour, cut-paper blocks, screenprint grain, slight misregistration and soft paper; a limited palette of main, support and accent colours echoed from the photo, such as clear blue, cream, warm yellow and coral orange; at most a ring, horizontal line or structural line as helper, wide whitespace and a short title or micro note in a small modernist type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-322 or asks for a mid-century modern geometric logo, travel-souvenir symbol or editorial graphic mark from a photo.",
+  "short_description": "几何构成：把照片主体用圆、方、弧、三角重组成一枚形式先于语义的中世纪现代符号",
+  "zh-CN": {
+    "name": "几何构成",
+    "tagline": "保留原照片，把主体重组成一枚先好看、再认得出的中世纪现代几何符号。",
+    "look": "照片保持原样，设计部分用圆形、矩形、弧线、三角形和少量不规则形把主体重新拼起来：先成立为一个平衡、优雅的构成，再让人联想到原来的对象，不画细节。硬边平涂，色块像剪纸，带丝网颗粒、轻微套印误差和温和纸感。颜色分主色、辅助色和点睛色，从照片里推出来，如清澈蓝、奶油白、暖黄、珊瑚橙、柔绿、桃粉、深褐，彼此呼应。最多加一个圆环、一条水平线或结构线；符号小、留白大，配一行简短标题或微型注释，用细小的现代主义字体。",
+    "traits": [
+      "中世纪现代",
+      "几何转译",
+      "形式先于语义",
+      "编辑符号",
+      "大留白"
+    ],
+    "good": [
+      "由清楚几何组成的主体：帆船、摩天轮、灯塔、拱门、太阳下的山",
+      "旅行和城市的标志物：一座桥、一个车站钟、海边的遮阳伞",
+      "想做成旅行纪念、城市文创、展览海报或品牌图形的照片"
+    ],
+    "poor": [
+      "形状松散、难以几何化的主体：一团毛线、凌乱的草丛、人群",
+      "必须保留细节或表情的照片：人像特写、手工艺品纹样",
+      "想要普通扁平插画、UI 图标、渐变或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Geometric Composition",
+    "tagline": "Keeps your photo and rebuilds the subject as one mid-century modern geometric symbol that works as a shape before you recognise it.",
+    "look": "The photo stays as it is. The design reassembles the subject from circles, rectangles, arcs, triangles and a few irregular shapes: it first stands as a balanced, elegant composition, then brings the original object to mind, with no detail drawn. Colour is hard-edged and flat in cut-paper-like blocks, with screenprint grain, slight misregistration and a gentle paper feel. A main, support and accent colour are drawn from the photo, such as clear blue, cream, warm yellow, coral orange, soft green, peach pink or dark brown, echoing one another. At most one ring, horizontal line or structural line is added; the symbol is small in wide whitespace, with a short title or tiny note in a small modernist type.",
+    "traits": [
+      "Mid-century modern",
+      "Geometric translation",
+      "Form before meaning",
+      "Editorial symbol",
+      "Wide whitespace"
+    ],
+    "good": [
+      "Subjects built from clear geometry: a sailboat, a Ferris wheel, a lighthouse, an archway, a mountain under the sun",
+      "Landmarks of travel and cities: a bridge, a station clock, a beach umbrella",
+      "Photos you want as a travel souvenir, city merchandise, an exhibition poster or a brand graphic"
+    ],
+    "poor": [
+      "Loose shapes that resist geometry: a ball of yarn, tangled grass, a crowd",
+      "Photos where detail or expression must survive: close-up portraits, craft patterns",
+      "Wanting ordinary flat illustration, UI icons, gradients or 3D"
+    ]
+  },
+  "ja": {
+    "name": "幾何学コンポジション",
+    "tagline": "写真はそのままに、主役を、まず形として成り立ち、そのあと元がわかるミッドセンチュリーの幾何学シンボルに組み直します。",
+    "look": "写真はそのまま残し、デザイン側は円、長方形、弧、三角形、少しの不規則な形で主役を組み直します。まずバランスのとれた端正な構成として成り立ち、そのあと元の対象を思い出させるもので、細部は描きません。色はエッジのくっきりした平塗りで、切り紙のような色面に、シルクスクリーンの粒子、わずかな版ずれ、穏やかな紙の質感があります。メイン、サブ、差し色は写真から導き、澄んだ青、クリーム、暖かい黄、コーラルオレンジ、柔らかな緑、ピーチピンク、こげ茶などが互いに響き合います。補助は輪、水平線、構造線をひとつまで。シンボルは小さく余白は広く、細身のモダニズム書体で短いタイトルや小さな注記を添えます。",
+    "traits": [
+      "ミッドセンチュリーモダン",
+      "幾何学への翻訳",
+      "意味より形",
+      "エディトリアルな記号",
+      "大きな余白"
+    ],
+    "good": [
+      "はっきりした幾何学でできた主役：帆船、観覧車、灯台、アーチ、太陽と山",
+      "旅や街の目印：橋、駅の時計、海辺のパラソル",
+      "旅の記念品、街のグッズ、展覧会のポスター、ブランドのグラフィックにしたい写真"
+    ],
+    "poor": [
+      "形がゆるく幾何学にしにくい主役：毛糸玉、乱れた草むら、人混み",
+      "細部や表情を残したい写真：顔のアップ、工芸品の文様",
+      "ありきたりなフラットイラスト、UI アイコン、グラデーション、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "기하 구성",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 먼저 형태로 성립하고 나중에 알아보게 되는 미드센추리 모던 기하 심벌로 재구성합니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 원, 사각형, 호, 삼각형과 약간의 불규칙한 형태로 주인공을 다시 짜 맞춥니다. 먼저 균형 잡히고 단정한 구성으로 성립한 다음 원래 대상을 떠올리게 하며, 세부는 그리지 않습니다. 색은 가장자리가 또렷한 평면으로 종이를 오린 듯한 색면이고, 실크스크린 입자, 살짝 어긋난 판, 부드러운 종이 느낌이 있습니다. 주색, 보조색, 포인트는 사진에서 끌어내며 맑은 파랑, 크림, 따뜻한 노랑, 코랄 오렌지, 부드러운 초록, 복숭아빛 분홍, 짙은 갈색 등이 서로 호응합니다. 보조 요소는 원형 고리, 수평선, 구조선 가운데 하나까지입니다. 심벌은 작고 여백은 넓으며, 가는 모더니즘 서체로 짧은 제목이나 작은 주석을 붙입니다.",
+    "traits": [
+      "미드센추리 모던",
+      "기하학적 번역",
+      "의미보다 형태",
+      "에디토리얼 기호",
+      "넓은 여백"
+    ],
+    "good": [
+      "분명한 기하로 이루어진 주인공: 돛단배, 대관람차, 등대, 아치, 해 아래의 산",
+      "여행과 도시의 랜드마크: 다리, 역 시계, 해변 파라솔",
+      "여행 기념품, 도시 굿즈, 전시 포스터, 브랜드 그래픽으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "형태가 느슨해 기하로 만들기 어려운 주인공: 털실 뭉치, 엉킨 풀숲, 군중",
+      "세부나 표정을 살려야 하는 사진: 얼굴 클로즈업, 공예품 문양",
+      "평범한 플랫 일러스트, UI 아이콘, 그라데이션, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تكوين هندسي",
+    "tagline": "يحتفظ بصورتك ويعيد بناء عنصرها رمزاً هندسياً بأسلوب منتصف القرن، يقف شكلاً أولاً ثم يُعرف أصله.",
+    "look": "تبقى الصورة كما هي، ويعيد التصميم تركيب العنصر من دوائر ومستطيلات وأقواس ومثلثات وبضعة أشكال غير منتظمة: يقف أولاً تكويناً متوازناً أنيقاً، ثم يستدعي الشيء الأصلي إلى الذهن، من دون رسم التفاصيل. الألوان مسطحة حادة الحواف في مساحات تشبه الورق المقصوص، مع حبيبات الشاشة الحريرية وانزياح طفيف وإحساس ورقي ناعم. يُستمد اللون الرئيسي والمساند واللمسة البارزة من الصورة، مثل الأزرق الصافي والكريمي والأصفر الدافئ والبرتقالي المرجاني والأخضر الناعم والوردي الخوخي والبني الداكن، وتتجاوب فيما بينها. يُضاف في أقصى حد حلقة واحدة أو خط أفقي أو خط إنشائي؛ والرمز صغير في فراغ واسع، مع عنوان قصير أو ملاحظة صغيرة بخط حداثي دقيق.",
+    "traits": [
+      "حداثة منتصف القرن",
+      "ترجمة هندسية",
+      "الشكل قبل المعنى",
+      "رمز تحريري",
+      "فراغ واسع"
+    ],
+    "good": [
+      "عناصر مبنية من هندسة واضحة: مركب شراعي، عجلة دوّارة، منارة، قوس، جبل تحت الشمس",
+      "معالم السفر والمدن: جسر، ساعة محطة، مظلة على الشاطئ",
+      "صور تريدها تذكاراً للسفر أو منتجات للمدينة أو ملصق معرض أو تصميماً لعلامة تجارية"
+    ],
+    "poor": [
+      "أشكال رخوة يصعب تحويلها إلى هندسة: كرة صوف، عشب متشابك، حشد من الناس",
+      "صور يجب أن تبقى فيها التفاصيل أو التعابير: صور الوجه القريبة، زخارف الحِرف اليدوية",
+      "الرغبة في رسم مسطح عادي أو أيقونات واجهات أو تدرّجات أو مجسّمات"
+    ]
+  }
+}
